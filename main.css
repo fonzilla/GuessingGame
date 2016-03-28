@@ -1,0 +1,25 @@
+
+#header {
+	text-align: center;
+	color: #FFFFFF;
+}
+
+h1 {
+	padding: 10px;
+	background:#000000;
+	color: #FFFFFF;
+}
+
+#body {
+	text-align: center;
+}
+
+#input {
+	text-align: center;
+	margin: 20px;
+}
+
+.buttons {
+	text-align: center;
+}
+
