@@ -4,22 +4,24 @@
 	color: #FFFFFF;
 }
 
+body {
+	text-align: center;
+}
+
+p {
+	font-size: 16px;
+}
+
 h1 {
 	padding: 10px;
 	background:#000000;
 	color: #FFFFFF;
 }
 
-#body {
-	text-align: center;
-}
-
 #input {
-	text-align: center;
-	margin: 20px;
+	margin: 10px;
 }
 
-.buttons {
-	text-align: center;
+#last {
+	margin: 10px;
 }
-
